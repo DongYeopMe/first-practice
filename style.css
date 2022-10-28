@@ -1,0 +1,19 @@
+#container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+#stuff{
+  margin: auto;
+  display: flex;
+  width: 50%;
+  height: 70vh;
+  flex-direction: column;
+  position:static;
+  align-items: center;
+  background-color: beige;
+}
+#box{
+  position: relative;
+}
